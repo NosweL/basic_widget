@@ -1,16 +1,9 @@
-# flutter_app
+# BASIC WIDGET
+NAMA : WELSON MARIO NAIBAHO <br>
+KELAS : TI3C / 23 <br>
+NIM : 2041720253 <br>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SCREENSHOOT 1
+![uisederhana](https://user-images.githubusercontent.com/74538482/205568695-14e110bb-b5c2-4f4b-bac1-c150d1ccd341.jpg)
+SCREENSHOOT 2
+![uisederhana2](https://user-images.githubusercontent.com/74538482/205568732-6bf409dd-3916-4a62-9076-3a8a03989005.jpg)
